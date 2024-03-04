@@ -165,6 +165,12 @@ git commit -m "first commit"
 paste code(git remote) dalam github
 git push -u origin master
 
+
+
+
+
+
+
 refresh github
 
 bukak pythonanywhere
